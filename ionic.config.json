@@ -1,0 +1,7 @@
+{
+  "name": "my_diary_2.0",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
